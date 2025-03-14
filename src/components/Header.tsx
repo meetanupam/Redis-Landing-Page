@@ -103,7 +103,7 @@ export default function Header() {
         <Link href="/">Login</Link>
         <Link href="/">Book a Meeting</Link>
 
-        <Link className="hover:bg-red-600" href="/">
+        <Link className="hover:text-red-600" href="/">
           Try Redis
         </Link>
       </div>
